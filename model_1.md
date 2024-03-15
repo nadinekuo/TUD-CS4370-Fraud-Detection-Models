@@ -1,0 +1,1 @@
+Hint: try to play around with the feature 'adres_dagen_op_adres' i.e. number of days the person has been living at the same address.
